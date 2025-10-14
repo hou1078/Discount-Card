@@ -1,4 +1,4 @@
-# Earls-Discount-System
+# Discount-Card-System
 
 ## Running the Project
 
@@ -22,13 +22,13 @@
 ## For Developers
 
 1. Ensure you have a dedicated folder for the project, and change directory into said folder
-2. In terminal, run the command `git clone https://github.com/RyanDanielLee/Earls-Discount-System.git`
+2. In terminal, run the command `git clone https://github.com/hou1078/Discount-Card.git`
 
 ## Local Development Setup
 
 1. To ensure you have the right keys, please head over the console https://console.cloud.google.com/iamadmin/serviceaccounts/details/102373071141954327383/keys?cloudshell=true&hl=en&project=bcit-ec
 2. Create a new key pair and download it(JSON)
-3. Add this JSON file to your directory in Earls_Discount_System/site_admin/utils.py
+3. Add this JSON file to your directory in Discount-Card/site_admin/utils.py
 4. Change the service account to match the directory of the JSON
 
 ## Required .env parameters
